@@ -1,0 +1,9 @@
+python fork_weather.py EHRD
+python fork_weather.py EHGG
+python fork_weather.py EHLW
+python fork_weather.py EHAM
+python fork_weather.py EHBK
+python fork_weather.py EHWO
+python fork_weather.py EHEH
+python fork_weather.py EHDL
+python fork_weather.py EHKD
